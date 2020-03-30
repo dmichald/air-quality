@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Air Quality</string>
+    <string name="title_home">Nearest Station Air Quality Index (AQI) </string>
+    <string name="title_search">Search city</string>
+    <string name="title_settings">Information</string>
+    <string name="search_nearest_point" translatable="false">Find nearest station</string>
+    <string name="good">Good</string>
+    <string name="moderate">Moderate</string>
+    <string name="unhealthy_for">Unhealthy for \n Sensitive Groups</string>
+    <string name="unhealthy">Unhealthy</string>
+    <string name="very_unhealthy">Very Unhealthy</string>
+    <string name="hazardous">Hazardous</string>
+    <string name="button">Search</string>
+    <string name="channel_name" translatable="false">notification</string>
+    <string name="channel_description" translatable="false">This is notification channel</string>
+    <string name="temp">Temperature: %s %s</string>
+    <string name="celsius" translatable="false">\u00B0C </string>
+    <string name="pm25" translatable="false">PM 2.5 (AQI): %s</string>
+    <string name="pm10" translatable="false">PM 10 (AQI): %s</string>
+    <string name="o3" translatable="false">O3 (AQI): %s</string>
+    <string name="no2" translatable="false">NO2 (AQI): %s</string>
+    <string name="so2" translatable="false">SO2 (AQI): %s</string>
+    <string name="co" translatable="false">CO (AQI): %s</string>
+    <string name="date" >Updated on: %s </string>
+    <string name="pollutions">Pollutions: </string>
+    <string name="home" translatable="false">Home</string>
+    <string name="unknown_city">Unknown city.</string>
+    <string name="check_connection">No internet connection.</string>
+    <string name="attention">Attention!</string>
+    <string name="air_quality">Air quality: </string>
+    <string name="Yes">Yes </string>
+    <string name="No">No </string>
+    <string name="gps_status">Your GPS seems to be disabled, do you want to enable it? </string>
+    <string name="good_aqi_desc">AQI: 0 – 50 \n Air Pollution Level: Good \n Health Implications:  Air quality is considered satisfactory, and air pollution poses little or no risk</string>
+    <string name="moderate_aqi_desc">AQI: 51 – 100 \n Air Pollution Level: Moderate \n Health Implications:  Air quality is acceptable; however, for some pollutants there may be a moderate health concern for a very small number of people who are unusually sensitive to air pollution. </string>
+    <string name="unhealthy_for_aqi_desc">AQI: 101 – 150 \n Air Pollution Level: Unhealthy for Sensitive Groups \n Health Implications : Members of sensitive groups may experience health effects. The general public is not likely to be affected.</string>
+    <string name="unhealthy_aqi_desc">AQI: 151 – 200 \n Air Pollution Level: Unhealthy \n Health Implications: Everyone may begin to experience health effects; members of sensitive groups may experience more serious health effects</string>
+    <string name="very_unhealthy_aqi_desc">AQI: 201 – 300\n Air Pollution Level: Very Unhealthy \n Health Implications: Health warnings of emergency conditions. The entire population is more likely to be affected. </string>
+    <string name="hazardous_aqi_desc">AQI: 300+ \n Air Pollution Level: Hazardous \n Health Implications: Health alert: everyone may experience more serious health effects</string>
+    <string name="information_title">Air Quality Index Scale and Color Legend</string>
+    <string name="hint_search_btn">Enter city name …</string>
+
+</resources>

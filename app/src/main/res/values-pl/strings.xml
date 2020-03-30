@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Air Quality</string>
+    <string name="attention">Uwaga!</string>
+    <string name="button">Szukaj</string>
+    <string name="check_connection">Brak połączenia internetowego.</string>
+    <string name="good">Dobra</string>
+    <string name="hazardous">Niebezpieczna</string>
+    <string name="hint_search_btn">Wprowadź nazwę miasta …</string>
+    <string name="information_title">Legenda</string>
+    <string name="moderate">Średnia</string>
+    <string name="pollutions">"Zanieczyszczenia: "</string>
+    <string name="temp" translatable="false">Temperatura %s %s</string>
+    <string name="title_home">Najbliższa stacja pomiarowa</string>
+    <string name="title_search">Szukaj miasta</string>
+    <string name="title_settings">Informacje</string>
+    <string name="unhealthy">Niezdrowa</string>
+    <string name="unhealthy_for">Niezdrowe dla osób wrażliwych</string>
+    <string name="unknown_city">Nieznane miasto.</string>
+    <string name="very_unhealthy">Bardzo niezdrowa</string>
+    <string name="air_quality">Jakość powierza: </string>
+    <string name="Yes">Tak </string>
+    <string name="No">Nie </string>
+    <string name="date" >Zaktualizowano: %s </string>
+    <string name="gps_status">GPS jest wyłączony. Chcesz go włączyć? </string>
+    <string name="good_aqi_desc">Wartości Indeksu Jakości Powietrza (AQI):\n 0 – 50  \n  Jakość powietrza: Dobra \n  Poziom zagrożenia zdrowia: \nJakość powietrza jest uznawana za zadowalającą, a zanieczyszczenie powietrza stanowi niewielkie ryzyko lub jego brak.</string>
+    <string name="moderate_aqi_desc">Wartości Indeksu Jakości Powietrza (AQI):\n 51 – 100 \n  Jakość powietrz: Średnia \n Poziom zagrożenia zdrowia: \n Jest dopuszczalna jednak niektóre zanieczyszczenia mogą być umiarkowanie szkodliwe dla bardzo małej liczby osób, które są niezwykle wrażliwe na zanieczyszczenie powietrza. </string>
+    <string name="unhealthy_for_aqi_desc">Wartości Indeksu Jakości Powietrza (AQI):\n 101 – 150 \n  Jakość powietrza: Niezdrowa dla wrażliwych osób \n Poziomy zagrożenia zdrowia: \n  U osób wrażliwych mogą wystąpić negatywne skutki dla zdrowia. Większość populacji może nie odczuwać negatywnych objawów.</string>
+    <string name="unhealthy_aqi_desc">Wartości Indeksu Jakości Powietrza (AQI):\n 151 – 200 \n  Jakość powietrza: Niezdrowa \n Poziom zagrożenia zdrowia:  Każdy może zacząć doświadczać negatywnych skutków zdrowotnych; U osób wrażliwych mogą wystąpić poważniejsze skutki zdrowotne.</string>
+    <string name="very_unhealthy_aqi_desc">Wartości Indeksu Jakości Powietrza (AQI):\n 201 – 300 \n  Jakość powietrza: Bardzo niezdrowa \n Poziom zagrożenia zdrowia:  Ostrzeżenie zdrowotne, poziom alarmowy. Bardzo prawdopodobny negatywny wpływ na całą populację.</string>
+    <string name="hazardous_aqi_desc">Wartości Indeksu Jakości Powietrza (AQI):\n 300+ \n  Jakość powietrza: Niebezpieczna \n Poziom zagrożenia zdrowia: Alarm Zdrowotny: każdy może doświadczyć poważniejszych skutków zdrowotnych. </string>
+</resources>
