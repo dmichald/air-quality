@@ -1,4 +1,4 @@
-# Simple app privides air quality informations.
+# Simple app provides air quality informations.
 ### Project created during studies
 App based on [Air Quality Programmatic APIs](https://aqicn.org/json-api/doc/). 
 
